@@ -1,4 +1,4 @@
-根据复旦邱老师的nlp入门教程https://github.com/FudanNLP/nlp-beginner完成的对应代码
+根据[https://github.com/FudanNLP/nlp-beginner](复旦邱老师的nlp入门教程)完成的对应代码
 
 已实现：
 1.基于词袋模型的逻辑回归（sklearn）文本分类
